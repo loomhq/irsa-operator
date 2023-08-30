@@ -30,7 +30,7 @@ require (
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba // indirect
 	gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 	k8s.io/api v0.20.4
 	k8s.io/apiextensions-apiserver v0.20.4 // indirect
 	k8s.io/apimachinery v0.20.4
